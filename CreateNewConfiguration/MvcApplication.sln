@@ -16,6 +16,7 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		UAT|Any CPU = UAT|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BB24DDE3-EB20-47A9-8A70-CFCCAA1613AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -23,10 +24,14 @@ Global
 		{BB24DDE3-EB20-47A9-8A70-CFCCAA1613AD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{BB24DDE3-EB20-47A9-8A70-CFCCAA1613AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB24DDE3-EB20-47A9-8A70-CFCCAA1613AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB24DDE3-EB20-47A9-8A70-CFCCAA1613AD}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{BB24DDE3-EB20-47A9-8A70-CFCCAA1613AD}.UAT|Any CPU.Build.0 = UAT|Any CPU
 		{9622301F-9699-482D-9394-DF0B05B5CAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9622301F-9699-482D-9394-DF0B05B5CAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9622301F-9699-482D-9394-DF0B05B5CAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9622301F-9699-482D-9394-DF0B05B5CAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9622301F-9699-482D-9394-DF0B05B5CAB4}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{9622301F-9699-482D-9394-DF0B05B5CAB4}.UAT|Any CPU.Build.0 = UAT|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
